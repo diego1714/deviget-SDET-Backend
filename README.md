@@ -1,3 +1,8 @@
+# Notes
+I used python as main language, selenium to test browser and requests library to test the api
+
+
+
 # SDET-test
 ## Challenge
 Create pilot Java test framework for testing NASA's open API.
